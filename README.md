@@ -1,11 +1,11 @@
-### Hi there 👋 I'm Andrés Piñones!
-I'm a computer science and technology student @ Tec de Monterrey. 
-<a href="https://www.linkedin.com/in/andrespinones/">
-  <img align="left" alt="Andres's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br>
+## Hey there 👋!
+[![Email Me](https://img.shields.io/badge/Email-andrespinones@gmail.com-BB001B.svg)](mailto:andrespinones@gmail.com)
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-2867B2.svg)](https://linkedin.com/in/andrespinones)
+---
+<img align = "left" width="24px" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_del_ITESM.svg">Computer science and technology student @ Tec de Monterrey. 
 
-
+I'm a software developer passionate about technology and innovation.
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/Y5LCWFw0TB-Zqs9u34Er-w?identity__email=andrespinones%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/Y5LCWFw0TB-Zqs9u34Er-w/image"></a><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>May 1, 2022</p></blockquote>
 <!--
 **andrespinones/andrespinones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
