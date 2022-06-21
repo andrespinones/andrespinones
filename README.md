@@ -1,4 +1,4 @@
-## Hey there 👋!
+## Hi there, I'm Andrés! 👋🏻
 [![Email Me](https://img.shields.io/badge/Email-andrespinones@gmail.com-BB001B.svg)](mailto:andrespinones@gmail.com)
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-2867B2.svg)](https://linkedin.com/in/andrespinones)
 ---
