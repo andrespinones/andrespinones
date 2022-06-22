@@ -3,9 +3,51 @@
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-2867B2.svg)](https://linkedin.com/in/andrespinones)
 ---
 <img align = "left" width="24px" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_del_ITESM.svg">Computer science and technology student @ Tec de Monterrey. 
+--
+Hi, I'm Andrés Piñones! I'm a software engineer with a passion for problem solving through technology, innovation and creativity. I'm someone who likes to materialize ideas!
+I consider myself very versatile and a fast learner who likes to be constantly learning.
 
-I'm a software developer passionate about technology and innovation.
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/Y5LCWFw0TB-Zqs9u34Er-w?identity__email=andrespinones%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/Y5LCWFw0TB-Zqs9u34Er-w/image"></a><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>May 1, 2022</p></blockquote>
+I have worked with some of this technologies:
+<ul>
+  <li>Programming Languages</li>
+  <ul>
+     <li>Working Knowledge</li>
+      <ul>
+        <li>C++, Javascipt, Python</li>
+      </ul>
+      <li>Basic Knowledge</li>
+      <ul>
+        <li>Swift, SQL, C#</li>
+      </ul>
+  </ul>
+</ul>
+
+## Visible Projects
+<table>
+  <thead>
+    <th>Project ⚙️</th>
+    <th>Description 📝</th>
+    <th>Role 🧑‍🏭</th>
+  </thead>
+  <tbody>
+    <tr>
+      <th><a href="https://github.com/EdithBenvenuto/CemexWeb">Cemex Gamification Website</a></th>
+      <td>Monorepo for all the tooling which enables ESLint to support TypeScript.</td>
+      <td>Maintainer</td>
+    </tr>
+    <tr>
+      <th><a href="https://github.com/solishiguera/TC2007B.3-MARCO-iOS">Museo Marco IOS App</a></th>
+      <td>Converts your TSLint configuration to the closest possible ESLint equivalent.</td>
+      <td>Creator & maintainer</td>
+    </tr>
+    <tr>
+      <th><a href="https://github.com/andrespinones/checkAPI">CheckAPI</a></th>
+      <td>Converts JavaScript to TypeScript and TypeScript to better TypeScript.</td>
+      <td>Creator & maintainer</td>
+    </tr>
+  </tbody>
+</table>
+
 <!--
 **andrespinones/andrespinones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
