@@ -6,7 +6,7 @@
 --
 💻 Hi, I'm Andrés Piñones! I'm a software engineer with a passion for problem solving through technology, innovation and creativity. I'm someone who likes to materialize ideas!
 
-📖 I consider myself very versatile and a fast learner who likes to be constantly learning.
+📖 I consider myself very versatile and like to be constantly learning. 
 
 ### Technologies
 As of now I have worked with this technologies:
@@ -19,7 +19,7 @@ As of now I have worked with this technologies:
       </ul>
       <li>Basic Knowledge</li>
       <ul>
-        <li>Swift, SQL, C#</li>
+        <li>Swift, SQL, C#, Typescript</li>
       </ul>
   </ul>
     <li>Linux CLI</li>
@@ -55,7 +55,7 @@ Some course team projects I've worked on:
     </tr>
     <tr>
       <th><a href="https://github.com/andrespinones/checkAPI">CheckAPI</a></th>
-      <td>Converts JavaScript to TypeScript and TypeScript to better TypeScript.</td>
+      <td>Angular application for API Documentation management and endpoint testing.</td>
       <td>back-end and middleware</td>
     </tr>
   </tbody>
