@@ -39,27 +39,31 @@ Some course team projects I've worked on:
   <thead>
     <th>Project ⚙️</th>
     <th>Description 📝</th>
-    <th>Role 🧑‍🏭</th>
+    <th>Responsible for 🧑‍🏭</th>
   </thead>
   <tbody>
     <tr>
       <th><a href="https://github.com/EdithBenvenuto/CemexWeb">Cemex Gamification Website</a></th>
       <td> website for CEMEX with an embedded game to track employee performance based on KPI’s implemented with gamification.</td>
-      <td>Maintainer</td>
+      <td>querying and displaying user tasks and a productivity dashboard for admin view</td>
     </tr>
     <tr>
       <th><a href="https://github.com/solishiguera/TC2007B.3-MARCO-iOS">Museo Marco IOS App</a></th>
       <td>development of an IOS app for MARCO Museum where visitors can consult current exhibitions, videos, be redirected to buy tickets, reserve guided             visits and more museum information.
       </td>
-      <td>Creator & maintainer</td>
+      <td>displaying exhibition and exhibition detail views and their related controllers and services.</td>
     </tr>
     <tr>
       <th><a href="https://github.com/andrespinones/checkAPI">CheckAPI</a></th>
       <td>Converts JavaScript to TypeScript and TypeScript to better TypeScript.</td>
-      <td>Creator & maintainer</td>
+      <td>back-end and middleware</td>
     </tr>
   </tbody>
 </table>
+
+## Tech Achievements
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/Y5LCWFw0TB-Zqs9u34Er-w?identity__email=andrespinones%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/Y5LCWFw0TB-Zqs9u34Er-w/image"></a><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>May 1, 2022</p></blockquote>
+
 
 <!--
 **andrespinones/andrespinones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
