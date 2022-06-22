@@ -34,6 +34,7 @@ As of now I have worked with this technologies:
 </ul>
 
 ## Visible Projects
+Some course team projects I've worked on:
 <table>
   <thead>
     <th>Project ⚙️</th>
@@ -43,12 +44,13 @@ As of now I have worked with this technologies:
   <tbody>
     <tr>
       <th><a href="https://github.com/EdithBenvenuto/CemexWeb">Cemex Gamification Website</a></th>
-      <td>Monorepo for all the tooling which enables ESLint to support TypeScript.</td>
+      <td> website for CEMEX with an embedded game to track employee performance based on KPI’s implemented with gamification.</td>
       <td>Maintainer</td>
     </tr>
     <tr>
       <th><a href="https://github.com/solishiguera/TC2007B.3-MARCO-iOS">Museo Marco IOS App</a></th>
-      <td>Converts your TSLint configuration to the closest possible ESLint equivalent.</td>
+      <td>development of an IOS app for MARCO Museum where visitors can consult current exhibitions, videos, be redirected to buy tickets, reserve guided             visits and more museum information.
+      </td>
       <td>Creator & maintainer</td>
     </tr>
     <tr>
