@@ -4,10 +4,12 @@
 ---
 <img align = "left" width="24px" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_del_ITESM.svg">Computer science and technology student @ Tec de Monterrey. 
 --
-Hi, I'm Andrés Piñones! I'm a software engineer with a passion for problem solving through technology, innovation and creativity. I'm someone who likes to materialize ideas!
-I consider myself very versatile and a fast learner who likes to be constantly learning.
+💻 Hi, I'm Andrés Piñones! I'm a software engineer with a passion for problem solving through technology, innovation and creativity. I'm someone who likes to materialize ideas!
 
-I have worked with some of this technologies:
+📖 I consider myself very versatile and a fast learner who likes to be constantly learning.
+
+### Technologies
+As of now I have worked with this technologies:
 <ul>
   <li>Programming Languages</li>
   <ul>
@@ -19,6 +21,15 @@ I have worked with some of this technologies:
       <ul>
         <li>Swift, SQL, C#</li>
       </ul>
+  </ul>
+    <li>Linux CLI</li>
+    <li>Docker</li>
+    <li>Git</li>
+    <li>Node.js</li>
+    <li>Express</li>
+    <li>HTML/CSS</li>
+    <li>Postman</li>
+    <li>Angular</li>
   </ul>
 </ul>
 
